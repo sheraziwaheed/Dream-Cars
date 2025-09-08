@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "Corolla",
+    "variant": "SE",
+    "color": "White",
+    "description": "Reliable compact sedan with smooth drive.",
+    "price": 4200000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/2021_Toyota_Corolla_SE_front_view_%28United_States%29.jpg"
+  },
+  {
+    "id": 2,
+    "make": "Toyota",
+    "model": "Corolla",
+    "variant": "XLi",
+    "color": "Silver",
+    "description": "Fuel efficient daily driver.",
+    "price": 3950000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/2021_Toyota_Corolla_SE_front_view_%28United_States%29.jpg"
+  },
+  {
+    "id": 3,
+    "make": "Toyota",
+    "model": "Corolla",
+    "variant": "GLi",
+    "color": "Black",
+    "description": "Comfort build with smart features.",
+    "price": 4100000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/2021_Toyota_Corolla_SE_front_view_%28United_States%29.jpg"
+  },
+  {
+    "id": 4,
+    "make": "Toyota",
+    "model": "Corolla",
+    "variant": "Altis",
+    "color": "Blue",
+    "description": "Refined interior and calm ride.",
+    "price": 4550000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/2021_Toyota_Corolla_SE_front_view_%28United_States%29.jpg"
+  },
+  {
+    "id": 5,
+    "make": "Toyota",
+    "model": "Corolla",
+    "variant": "Hybrid",
+    "color": "Gray",
+    "description": "Hybrid power with strong economy.",
+    "price": 5200000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/2021_Toyota_Corolla_SE_front_view_%28United_States%29.jpg"
+  },
+  {
+    "id": 6,
+    "make": "Toyota",
+    "model": "Corolla",
+    "variant": "SE CVT",
+    "color": "Red",
+    "description": "Sport look with CVT convenience.",
+    "price": 4400000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/2021_Toyota_Corolla_SE_front_view_%28United_States%29.jpg"
+  },
+
+  {
+    "id": 7,
+    "make": "Honda",
+    "model": "Civic",
+    "variant": "Oriel",
+    "color": "Red",
+    "description": "Sporty sedan with sharp handling.",
+    "price": 6200000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Honda_CIVIC_SEDAN_%28DBA-FC1%29_front.jpg"
+  },
+  {
+    "id": 8,
+    "make": "Honda",
+    "model": "Civic",
+    "variant": "VTi",
+    "color": "Black",
+    "description": "Balanced power and comfort.",
+    "price": 5850000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Honda_CIVIC_SEDAN_%28DBA-FC1%29_front.jpg"
+  },
+  {
+    "id": 9,
+    "make": "Honda",
+    "model": "Civic",
+    "variant": "RS",
+    "color": "White",
+    "description": "Premium trim with a bold look.",
+    "price": 6900000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Honda_CIVIC_SEDAN_%28DBA-FC1%29_front.jpg"
+  },
+  {
+    "id": 10,
+    "make": "Honda",
+    "model": "Civic",
+    "variant": "EX",
+    "color": "Silver",
+    "description": "Modern tech and refined cabin.",
+    "price": 6050000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Honda_CIVIC_SEDAN_%28DBA-FC1%29_front.jpg"
+  },
+  {
+    "id": 11,
+    "make": "Honda",
+    "model": "Civic",
+    "variant": "Turbo",
+    "color": "Blue",
+    "description": "Turbo power with a smooth ride.",
+    "price": 7100000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Honda_CIVIC_SEDAN_%28DBA-FC1%29_front.jpg"
+  },
+  {
+    "id": 12,
+    "make": "Honda",
+    "model": "Civic",
+    "variant": "Standard",
+    "color": "Gray",
+    "description": "Trusted choice for city drives.",
+    "price": 5700000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Honda_CIVIC_SEDAN_%28DBA-FC1%29_front.jpg"
+  },
+
+  {
+    "id": 13,
+    "make": "Suzuki",
+    "model": "Alto",
+    "variant": "VXR",
+    "color": "Beige",
+    "description": "Easy to park and very light on fuel.",
+    "price": 2350000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Osaka_Auto_Messe_2019_%28195%29_-_Suzuki_ALTO_%28DBA-HA36S%29_tuned_by_KLC.jpg"
+  },
+  {
+    "id": 14,
+    "make": "Suzuki",
+    "model": "Alto",
+    "variant": "VXL",
+    "color": "White",
+    "description": "Small hatch with big value.",
+    "price": 2550000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Osaka_Auto_Messe_2019_%28195%29_-_Suzuki_ALTO_%28DBA-HA36S%29_tuned_by_KLC.jpg"
+  },
+  {
+    "id": 15,
+    "make": "Suzuki",
+    "model": "Alto",
+    "variant": "AGS",
+    "color": "Silver",
+    "description": "Auto gearbox for easy city use.",
+    "price": 2680000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Osaka_Auto_Messe_2019_%28195%29_-_Suzuki_ALTO_%28DBA-HA36S%29_tuned_by_KLC.jpg"
+  },
+  {
+    "id": 16,
+    "make": "Suzuki",
+    "model": "Alto",
+    "variant": "Standard",
+    "color": "Black",
+    "description": "Budget friendly and simple to run.",
+    "price": 2200000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Osaka_Auto_Messe_2019_%28195%29_-_Suzuki_ALTO_%28DBA-HA36S%29_tuned_by_KLC.jpg"
+  },
+  {
+    "id": 17,
+    "make": "Suzuki",
+    "model": "Alto",
+    "variant": "Limited",
+    "color": "Blue",
+    "description": "Limited trim with extra features.",
+    "price": 2750000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Osaka_Auto_Messe_2019_%28195%29_-_Suzuki_ALTO_%28DBA-HA36S%29_tuned_by_KLC.jpg"
+  },
+  {
+    "id": 18,
+    "make": "Suzuki",
+    "model": "Alto",
+    "variant": "Eco",
+    "color": "Red",
+    "description": "Best for short trips and errands.",
+    "price": 2300000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Osaka_Auto_Messe_2019_%28195%29_-_Suzuki_ALTO_%28DBA-HA36S%29_tuned_by_KLC.jpg"
+  },
+
+  {
+    "id": 19,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "variant": "GLS",
+    "color": "Gray",
+    "description": "Sharp design with roomy cabin.",
+    "price": 5600000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2024_Hyundai_Elantra_%28facelift%29%2C_front_2.2.24.jpg"
+  },
+  {
+    "id": 20,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "variant": "Sport",
+    "color": "White",
+    "description": "Crisp steering and solid features.",
+    "price": 5850000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2024_Hyundai_Elantra_%28facelift%29%2C_front_2.2.24.jpg"
+  },
+  {
+    "id": 21,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "variant": "Limited",
+    "color": "Blue",
+    "description": "High end trim with comforts.",
+    "price": 6400000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2024_Hyundai_Elantra_%28facelift%29%2C_front_2.2.24.jpg"
+  },
+  {
+    "id": 22,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "variant": "Base",
+    "color": "Black",
+    "description": "Value sedan with smart tech.",
+    "price": 5450000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2024_Hyundai_Elantra_%28facelift%29%2C_front_2.2.24.jpg"
+  },
+  {
+    "id": 23,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "variant": "SEL",
+    "color": "Silver",
+    "description": "Comfort ride and roomy rear seat.",
+    "price": 5700000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2024_Hyundai_Elantra_%28facelift%29%2C_front_2.2.24.jpg"
+  },
+  {
+    "id": 24,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "variant": "Hybrid",
+    "color": "Red",
+    "description": "Strong economy with quiet cabin.",
+    "price": 6800000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2024_Hyundai_Elantra_%28facelift%29%2C_front_2.2.24.jpg"
+  },
+
+  {
+    "id": 25,
+    "make": "Kia",
+    "model": "Sportage",
+    "variant": "FWD",
+    "color": "Green",
+    "description": "Compact SUV with bold style.",
+    "price": 8400000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/2023_Kia_Sportage_X-Line_AWD%2C_front_right.jpg"
+  },
+  {
+    "id": 26,
+    "make": "Kia",
+    "model": "Sportage",
+    "variant": "AWD",
+    "color": "Black",
+    "description": "Confident grip and soft ride.",
+    "price": 8850000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/2023_Kia_Sportage_X-Line_AWD%2C_front_right.jpg"
+  },
+  {
+    "id": 27,
+    "make": "Kia",
+    "model": "Sportage",
+    "variant": "X-Line",
+    "color": "Gray",
+    "description": "Outdoor look with raised stance.",
+    "price": 9100000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/2023_Kia_Sportage_X-Line_AWD%2C_front_right.jpg"
+  },
+  {
+    "id": 28,
+    "make": "Kia",
+    "model": "Sportage",
+    "variant": "LX",
+    "color": "Silver",
+    "description": "Feature packed family SUV.",
+    "price": 8200000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/2023_Kia_Sportage_X-Line_AWD%2C_front_right.jpg"
+  },
+  {
+    "id": 29,
+    "make": "Kia",
+    "model": "Sportage",
+    "variant": "EX",
+    "color": "White",
+    "description": "Comfortable cabin and calm ride.",
+    "price": 8750000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/2023_Kia_Sportage_X-Line_AWD%2C_front_right.jpg"
+  },
+  {
+    "id": 30,
+    "make": "Kia",
+    "model": "Sportage",
+    "variant": "Hybrid",
+    "color": "Blue",
+    "description": "Efficient power with roomy space.",
+    "price": 9500000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/2023_Kia_Sportage_X-Line_AWD%2C_front_right.jpg"
+  }
+]
+
+
+
+
+
+
